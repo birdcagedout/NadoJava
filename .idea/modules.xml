@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaWorks.iml" filepath="$PROJECT_DIR$/JavaWorks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NadoJava.iml" filepath="$PROJECT_DIR$/NadoJava.iml" />
     </modules>
   </component>
 </project>
